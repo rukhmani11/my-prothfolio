@@ -176,7 +176,6 @@ const App: React.FC = () => {
     },
   ];
 
-  const [emailLink, setEmailLink] = useState("");
 
   const [formData, setFormData] = useState({
     name: "",
@@ -398,7 +397,7 @@ const App: React.FC = () => {
           }}
         >
           <Typography variant="h3" fontWeight="bold" gutterBottom>
-            RUKHMNAI PRAJAPATI
+            RUKHMANI PRAJAPATI
           </Typography>
           <Typography variant="h6" gutterBottom>
             I'm a full stack developer
